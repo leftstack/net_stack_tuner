@@ -6,6 +6,8 @@
 
 NetStack Tuner is a small Windows GUI for inspecting and changing selected TCP template and global TCP stack settings. It is aimed at users who need a controlled way to tune Windows networking behavior without manually assembling `netsh`/PowerShell/registry commands.
 
+![screenshot](netstack102.png.png)
+
 ## Highlights
 
 - **Native desktop UI** built with Rust & Slint.
