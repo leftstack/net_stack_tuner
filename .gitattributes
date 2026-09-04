@@ -1,3 +1,0 @@
-# Ensure GitHub's Linguist correctly identifies this repo's language,
-# since no real source is distributed alongside compiled binaries.
-placeholder.rs linguist-language=Rust
